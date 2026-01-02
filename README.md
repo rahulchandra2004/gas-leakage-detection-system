@@ -50,7 +50,7 @@ Watch the full system in action:
 - Mobile app notifications alongside GSM alerts.  
 - Adding **multi-sensor support** for detecting multiple gases.  
 - Compact PCB design for production-ready deployment.
-- 
+  
 ---
 
 # Acknowledgements
