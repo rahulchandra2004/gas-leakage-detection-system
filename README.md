@@ -34,7 +34,7 @@ A proof-of-concept video demonstrates:
 
 # Files Included
 - `GasLeakageDetection.ino`: Arduino source code
-- `circuit-diagram.jpeg`: Schematic of the hardware setup
+- `circuit-diagram.jpg`: Schematic of the hardware setup
 - `demo-video-link.txt`: Link to real-world demonstration video
 
 ---
